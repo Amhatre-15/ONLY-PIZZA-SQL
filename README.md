@@ -1,6 +1,3 @@
-Perfect — thanks for the clarification!
-Since your **Pizza Sales Project is NOT a dashboard**, and you only ran **SQL queries directly in MySQL**, here is a **clean, professional, premium-style README** (similar in vibe/quality to your X Insight README but 100% suited for a **pure SQL analysis project**).
-
 ---
 
 # 🍕 **Pizza Sales SQL Analysis Project | Business Insights Using Pure SQL**
